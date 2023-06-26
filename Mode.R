@@ -4,7 +4,7 @@ getmode <- function(v)
   uniqv[which.max(tabulate(match(v, uniqv)))]
 }
 
-v <- c(159,314, 158, 716, 628, 836, 671, 173, 252, 431,571,831,971)
+v <- c(150,174, 138, 186, 128, 136, 171, 163, 152, 131,171,131,171)
 
 result <- getmode(v)
 print(result)

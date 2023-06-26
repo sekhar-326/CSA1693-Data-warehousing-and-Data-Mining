@@ -1,4 +1,4 @@
-temperatures <- c(19, 45, 75, 52, 77, 91, 86)
+temperatures <- c(20, 22, 25, 29, 23, 27, 28)
 
 result <- barplot(temperatures, 
                   main = "Maximum Temperatures in a Week", 

@@ -1,4 +1,4 @@
-temperatures <- c(12, 54, 45, 93, 87, 11, 61)
+temperatures <- c(20, 22, 25, 29, 23, 27, 28)
 
 result <- hist(temperatures, 
                   main = "Maximum Temperatures in a Week", 

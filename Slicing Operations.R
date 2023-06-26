@@ -1,4 +1,4 @@
-s <-"sekhar"
+s <-"Gowtham"
 print(substring(s,1,1))
 print(substring(s,1,5))
 my_string <- "Hello, world!"
